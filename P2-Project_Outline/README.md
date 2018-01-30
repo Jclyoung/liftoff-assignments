@@ -7,11 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
-### Features
-Include Features here
+This application will be able to let WCA users put a goal on another WCA user in the form of currency. Background to this is that there are Rubik's speedcube competitions that I organize and I've noticed that most competitors don't win any prize money. So I thought if I could get the other competitors to actual try to win something without being the best. They can break their own scores without beating everyone else.
+### Feature
+1. Paypal and Stripe Integration
+2. Live competition results
+3. Store user history
+4. Search
+5. User login
 ### Technologies
-Include Technologies here
+1. Paypal
+2. Stripe
+3. Atom
+4. Javascript
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Paypal and Stripe integration and pushing project to internet
