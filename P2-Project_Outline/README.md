@@ -8,17 +8,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-I will be creating a website for a restaurant of a friend of mine.  His current website is a single page with links to pdfs to his menu and specials.  What I want to do for him is to create a site that allows users to create orders and pay for it online.  He will be able to add and organize three pages for his menu (apps, entrees, and drink specials).  I will also be including a working google map via their API and users will be able to create a login to sign up for promotions via SMS.  
+I will be creating a website for a card catalog for a freiend of mine.  He currently has no way to track 
+what cards he has or where they are located.  What I want to do for him is to create a site that allows jim to enter the cards he has and 
+traxk where they are in his filing system. He will be able to add and organize various different card types. I want to create a method that
+allows him to take pictures of the cards and populates the data. It will also be able to tell him what cards he is missing out of his
+various sets of cards
 
-This came about because I wanted a challenge in implementing a lot features I haven’t worked on before on a backbone I was familiar with to reinforce the ideas of how coding a website works in C#.
+My stretch goal is to create a mobile app for him to use as a easier and faster way for him to enter the his card catalog data
+
 
 
 ### Features
 
-User Login - Users will be able to login and see their profile page to setup email and SMS messaging
-SMS Messaging - Adding SMS emails for promotions to be sent out to registered users
-Google maps api - Allows users to access the restaurant’s location via google maps
-Online ordering - Allows users to build up an order and then to pay for it through credit card.
+User Login - Users will be able to login and see their profile page
+Search - Users can search for various cards in the database
+Messaging - Users can message other users about their cards
+Autofill - Taking a picture and having it auto populate the fields
+Mobile App - Users being able to upload their cards using a mobile app (Stretch)
 
 
 ### Technologies
@@ -27,14 +33,14 @@ C#
 HTML
 CSS
 Javascript
+Pictures to text
+Mobile App Creation
 
 
 ### What I'll Have to Learn
 Hosting a site
-Iframes
 Javascript with c#
-Google maps API
-Upload / change specials and pictures
+Converting pictures to text
+Upload / change pictures
 Connecting with a POS
-Online payments
 Online database
