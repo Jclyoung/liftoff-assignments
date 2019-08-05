@@ -23,7 +23,7 @@ My stretch goal is to create a mobile app for him to use as a easier and faster 
 User Login - Users will be able to login and see their profile page
 Search - Users can search for various cards in the database
 Messaging - Users can message other users about their cards
-Autofill - Taking a picture and have it auto-populate the fields
+Autofill - Taking a picture and have it auto-populate the fields (stretch)
 Mobile App - Users being able to upload their cards using a mobile app (Stretch)
 
 
